@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+tensorflow
+gtts
+numpy
+pyttsx3
