@@ -1,6 +1,0 @@
-streamlit
-opencv-python-headless
-tensorflow
-gtts
-numpy
-pyttsx3
